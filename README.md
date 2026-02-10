@@ -1,5 +1,5 @@
 # MUHAMMAD_HILMI_ISNAENI-255150201111026-Latihan-01-Inheritance-Pemrogramman-Lanjut
-Source Code dari Latihan 01 Mata Kuliah Pemrogramman Lanjut tentang Class, Obyek, dan Inheritance.
+Source Code dari Latihan 01 Mata Kuliah Pemrogramman Lanjut tentang Class, Obyek, dan Inheritance. <br>
 • Buat super class dengan nama bidangDuaDimensi yang mempunyai atribut nama
 • Buat contructor dari class bidangDuaDimensi
 • Superclass juga mempunyai method info() dan method luas().
